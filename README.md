@@ -12,3 +12,4 @@
 ![Captura de tela_2023-03-25_15-08-45](https://user-images.githubusercontent.com/47903743/227734823-c42d30d7-2435-4505-aa8e-5488762faf1c.png)
 ![Captura de tela_2023-03-25_15-12-50](https://user-images.githubusercontent.com/47903743/227734869-791664e0-3063-4a5f-8ad6-b48d819746a2.png)
 
+Obs: Observe no ultimo print que houve um problema que impediu a criação do instance group. Não consegui solucionar a tempo dentro do período de 7 dias de acesso Pro.
